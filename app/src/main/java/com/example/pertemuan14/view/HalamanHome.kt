@@ -69,7 +69,7 @@ fun HomeScreen(
                 )
             ) {
                 Icon(
-                    imageVector = Icons.Default.Add,
+                    imageVector = Icons.Default. Add,
                     contentDescription = stringResource(R.string.entry_siswa)
                 )
             }
